@@ -9,7 +9,7 @@
 
 ## 🚀 **About Me**
 
-- 🎓 **MSc Business Analytics (CSE)** @ *University of Oulu, Finland* (Graduated March 2026)
+- 🎓 **MSc Business Analytics (CSE)** @ *University of Oulu, Finland* (Graduated June 2026)
 - 🔬 Thesis: **Detection of Emerging & Trending Topics in Online Discussions** using BERTopic on 1.7M documents
 - 📄 **IEEE Published** — Multimodal deep learning for medical imaging (CT-PET fusion, 98.44% accuracy)
 - 🛠️ Former **Associate Database Engineer** @ SlashNext (MongoDB, MySQL, PostgreSQL, ETL, Docker)
